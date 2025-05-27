@@ -1,4 +1,4 @@
-Download link :
+Download link :https://programming.engineering/?post_type=product&p=59442&preview=true
 
 Exercise – Week 4: Bayes classi cation (female-male dataset)
 Be prepared for the exercise sessions (watch the demo lecture). You may ask TAs to help if you cannot make your program to work, but don’t expect them to show you how to start from the scratch.
